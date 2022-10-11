@@ -1,0 +1,8 @@
+name: CaptureTheFlag
+version: '${project.version}'
+main: org.stupidcraft.capturetheflag.Main
+api-version: 1.19
+prefix: CTF
+authors: [ StupidCraft ]
+description: A lightweight, up-to-date Capture the Flag plugin for Spigot servers.
+website: https://stupidcraft.net
